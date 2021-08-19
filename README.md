@@ -16,3 +16,4 @@ This repository is pratice results of [Handle errors in Rust](https://docs.micro
 ## Practive Results
 
 1. [Learn about fatal errors with panic!](./fatal-errors-with-panic)
+2. [Use the Option type to deal with absence](./use-option-type)
