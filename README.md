@@ -14,3 +14,5 @@ This repository is pratice results of [Handle errors in Rust](https://docs.micro
 * Familiarity with creating, editing, and executing Rust code by using Cargo
 
 ## Practive Results
+
+1. [Learn about fatal errors with panic!](./fatal-errors-with-panic)
