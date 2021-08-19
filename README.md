@@ -19,3 +19,4 @@ This repository is pratice results of [Handle errors in Rust](https://docs.micro
 2. [Use the Option type to deal with absence](./use-option-type)
 3. [Exercise - use the Option type to deal with absence](./exercise-use-option-type)
 4. [Use the Result type to handle errors](./use-result-type)
+5. [Exercise - Use the Result type to handle errors](./exercise-use-result-type)
