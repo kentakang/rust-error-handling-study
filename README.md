@@ -18,3 +18,4 @@ This repository is pratice results of [Handle errors in Rust](https://docs.micro
 1. [Learn about fatal errors with panic!](./fatal-errors-with-panic)
 2. [Use the Option type to deal with absence](./use-option-type)
 3. [Exercise - use the Option type to deal with absence](./exercise-use-option-type)
+4. [Use the Result type to handle errors](./use-result-type)
